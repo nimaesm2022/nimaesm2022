@@ -148,7 +148,7 @@ Research focused on **hydrothermal processes**, **multispectral remote sensing**
 
 ---
 
-### 🪨 Rare Earth Element Exploration
+### 🔬 Rare Earth Element Exploration
 
 **Multisensory Remote Sensing of the Mountain Pass Carbonatite-Hosted Rare Earth Element Deposit**
 
@@ -194,7 +194,7 @@ Research focused on **hydrothermal processes**, **multispectral remote sensing**
 
 ---
 
-## 🪨 Exploration Geologist Intern — Freeport-McMoRan
+## 🔬 Exploration Geologist Intern — Freeport-McMoRan
 
 - Performed **hyperspectral analysis for hydrothermal alteration mapping** in the **Bagdad Mine area, Arizona**
 - Integrated **multispectral and hyperspectral imagery** with geological ground-truth data
