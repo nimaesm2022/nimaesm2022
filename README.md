@@ -10,7 +10,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/⛏️%20Mineral%20Exploration-6D4C41?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🪨%20Critical%20Minerals-2E7D32?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/📷%20Critical%20Minerals-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🌍%20Economic%20Geology-795548?style=for-the-badge" />
   <img src="https://img.shields.io/badge/🛰️%20Remote%20Sensing-1565C0?style=for-the-badge" />
 </p>
@@ -33,7 +33,7 @@ I am an **Exploration Geologist and Geoscience Researcher** specializing in **re
 My work combines **multi-sensor satellite imagery**, **geological and geochemical datasets**, **geostatistical methods**, and **machine learning** to:
 
 - ⛏️ identify **mineral exploration targets**
-- 🪨 detect **hydrothermal alteration zones**
+- 📷 detect **hydrothermal alteration zones**
 - 🗺️ map **lithologies and geological structures**
 - 📊 analyze **geochemical anomalies**
 - 🛰️ interpret **multispectral and hyperspectral imagery**
