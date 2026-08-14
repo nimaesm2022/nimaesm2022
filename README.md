@@ -1,4 +1,4 @@
-<h1 align="center">⛏️ Hi there, I'm Nima Esmaeilzadeh 🪨</h1>
+<h1 align="center">⛏️ Hi there, I'm Nima Esmaeilzadeh 👷🏻</h1>
 
 <h3 align="center">
   Exploration Geologist | Remote Sensing & GIS Specialist | Critical Minerals Researcher
